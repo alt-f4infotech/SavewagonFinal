@@ -16,6 +16,17 @@
 		D13FE7B21E1DFF2700E1B321 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7B01E1DFF2700E1B321 /* LaunchScreen.storyboard */; };
 		D13FE7BD1E1DFF2700E1B321 /* SavewagonFinalTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D13FE7BC1E1DFF2700E1B321 /* SavewagonFinalTests.m */; };
 		D13FE7C81E1DFF2700E1B321 /* SavewagonFinalUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D13FE7C71E1DFF2700E1B321 /* SavewagonFinalUITests.m */; };
+		D13FE7D61E1E03CC00E1B321 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7D51E1E03CC00E1B321 /* menu.png */; };
+		D13FE7D81E1E040C00E1B321 /* cart.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7D71E1E040C00E1B321 /* cart.png */; };
+		D13FE7DA1E1E043B00E1B321 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7D91E1E043B00E1B321 /* search.png */; };
+		D13FE7DC1E1E05DB00E1B321 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7DB1E1E05DB00E1B321 /* home.png */; };
+		D13FE7DE1E1E087700E1B321 /* account.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7DD1E1E087700E1B321 /* account.png */; };
+		D13FE7E01E1E0B8A00E1B321 /* notification.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7DF1E1E0B8A00E1B321 /* notification.png */; };
+		D13FE7E21E1E1C2600E1B321 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7E11E1E1C2600E1B321 /* splash.png */; };
+		D13FE7E41E1E1E6900E1B321 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = D13FE7E31E1E1E6900E1B321 /* logo.png */; };
+		D13FE7E71E1E259D00E1B321 /* LoginOtp.m in Sources */ = {isa = PBXBuildFile; fileRef = D13FE7E61E1E259D00E1B321 /* LoginOtp.m */; };
+		D13FE7EA1E1E41B100E1B321 /* connector.m in Sources */ = {isa = PBXBuildFile; fileRef = D13FE7E91E1E41B100E1B321 /* connector.m */; };
+		D13FE7ED1E1E46E000E1B321 /* verifyOtp.m in Sources */ = {isa = PBXBuildFile; fileRef = D13FE7EC1E1E46E000E1B321 /* verifyOtp.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +65,20 @@
 		D13FE7C31E1DFF2700E1B321 /* SavewagonFinalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SavewagonFinalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D13FE7C71E1DFF2700E1B321 /* SavewagonFinalUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SavewagonFinalUITests.m; sourceTree = "<group>"; };
 		D13FE7C91E1DFF2700E1B321 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D13FE7D51E1E03CC00E1B321 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
+		D13FE7D71E1E040C00E1B321 /* cart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cart.png; sourceTree = "<group>"; };
+		D13FE7D91E1E043B00E1B321 /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = "<group>"; };
+		D13FE7DB1E1E05DB00E1B321 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		D13FE7DD1E1E087700E1B321 /* account.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = account.png; sourceTree = "<group>"; };
+		D13FE7DF1E1E0B8A00E1B321 /* notification.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = notification.png; sourceTree = "<group>"; };
+		D13FE7E11E1E1C2600E1B321 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		D13FE7E31E1E1E6900E1B321 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		D13FE7E51E1E259D00E1B321 /* LoginOtp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginOtp.h; sourceTree = "<group>"; };
+		D13FE7E61E1E259D00E1B321 /* LoginOtp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginOtp.m; sourceTree = "<group>"; };
+		D13FE7E81E1E41B100E1B321 /* connector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = connector.h; sourceTree = "<group>"; };
+		D13FE7E91E1E41B100E1B321 /* connector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = connector.m; sourceTree = "<group>"; };
+		D13FE7EB1E1E46E000E1B321 /* verifyOtp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = verifyOtp.h; sourceTree = "<group>"; };
+		D13FE7EC1E1E46E000E1B321 /* verifyOtp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = verifyOtp.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,8 +136,22 @@
 				D13FE7A81E1DFF2700E1B321 /* SecondViewController.h */,
 				D13FE7A91E1DFF2700E1B321 /* SecondViewController.m */,
 				D13FE7AB1E1DFF2700E1B321 /* Main.storyboard */,
+				D13FE7E81E1E41B100E1B321 /* connector.h */,
+				D13FE7E91E1E41B100E1B321 /* connector.m */,
+				D13FE7E51E1E259D00E1B321 /* LoginOtp.h */,
+				D13FE7E61E1E259D00E1B321 /* LoginOtp.m */,
+				D13FE7EB1E1E46E000E1B321 /* verifyOtp.h */,
+				D13FE7EC1E1E46E000E1B321 /* verifyOtp.m */,
 				D13FE7AE1E1DFF2700E1B321 /* Assets.xcassets */,
 				D13FE7B01E1DFF2700E1B321 /* LaunchScreen.storyboard */,
+				D13FE7D71E1E040C00E1B321 /* cart.png */,
+				D13FE7D91E1E043B00E1B321 /* search.png */,
+				D13FE7E31E1E1E6900E1B321 /* logo.png */,
+				D13FE7E11E1E1C2600E1B321 /* splash.png */,
+				D13FE7DD1E1E087700E1B321 /* account.png */,
+				D13FE7DF1E1E0B8A00E1B321 /* notification.png */,
+				D13FE7DB1E1E05DB00E1B321 /* home.png */,
+				D13FE7D51E1E03CC00E1B321 /* menu.png */,
 				D13FE7B31E1DFF2700E1B321 /* Info.plist */,
 				D13FE79F1E1DFF2700E1B321 /* Supporting Files */,
 			);
@@ -212,6 +251,7 @@
 				TargetAttributes = {
 					D13FE79B1E1DFF2700E1B321 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 7MNGTY9E7H;
 						ProvisioningStyle = Automatic;
 					};
 					D13FE7B71E1DFF2700E1B321 = {
@@ -251,6 +291,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D13FE7D61E1E03CC00E1B321 /* menu.png in Resources */,
+				D13FE7DA1E1E043B00E1B321 /* search.png in Resources */,
+				D13FE7E41E1E1E6900E1B321 /* logo.png in Resources */,
+				D13FE7E01E1E0B8A00E1B321 /* notification.png in Resources */,
+				D13FE7DC1E1E05DB00E1B321 /* home.png in Resources */,
+				D13FE7E21E1E1C2600E1B321 /* splash.png in Resources */,
+				D13FE7DE1E1E087700E1B321 /* account.png in Resources */,
+				D13FE7D81E1E040C00E1B321 /* cart.png in Resources */,
 				D13FE7B21E1DFF2700E1B321 /* LaunchScreen.storyboard in Resources */,
 				D13FE7AF1E1DFF2700E1B321 /* Assets.xcassets in Resources */,
 				D13FE7AD1E1DFF2700E1B321 /* Main.storyboard in Resources */,
@@ -279,7 +327,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D13FE7AA1E1DFF2700E1B321 /* SecondViewController.m in Sources */,
+				D13FE7EA1E1E41B100E1B321 /* connector.m in Sources */,
+				D13FE7E71E1E259D00E1B321 /* LoginOtp.m in Sources */,
 				D13FE7A41E1DFF2700E1B321 /* AppDelegate.m in Sources */,
+				D13FE7ED1E1E46E000E1B321 /* verifyOtp.m in Sources */,
 				D13FE7A71E1DFF2700E1B321 /* FirstViewController.m in Sources */,
 				D13FE7A11E1DFF2700E1B321 /* main.m in Sources */,
 			);
@@ -428,6 +479,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7MNGTY9E7H;
 				INFOPLIST_FILE = SavewagonFinal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alt-f4infotech.SavewagonFinal";
@@ -439,6 +491,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7MNGTY9E7H;
 				INFOPLIST_FILE = SavewagonFinal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alt-f4infotech.SavewagonFinal";
@@ -511,6 +564,7 @@
 				D13FE7CE1E1DFF2700E1B321 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D13FE7CF1E1DFF2700E1B321 /* Build configuration list for PBXNativeTarget "SavewagonFinalTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +573,7 @@
 				D13FE7D11E1DFF2700E1B321 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D13FE7D21E1DFF2700E1B321 /* Build configuration list for PBXNativeTarget "SavewagonFinalUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +582,7 @@
 				D13FE7D41E1DFF2700E1B321 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
